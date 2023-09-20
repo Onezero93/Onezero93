@@ -10,7 +10,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([htt
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
+  <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Next (Android Studio)" width="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
   <br>
   <br>
 ### Github Statistic
