@@ -6,9 +6,6 @@ Saya seorang **Android Developer**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/iqbal-zabitza-44a341226/)https://www.linkedin.com/in/iqbal-zabitza-44a341226/)ku ya.<br>
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Hapi" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
   <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Android Studio" width="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
   <br>
