@@ -7,8 +7,8 @@ Saya seorang **Android Developer**.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/iqbal-zabitza-44a341226/)https://www.linkedin.com/in/iqbal-zabitza-44a341226/)ku ya.<br>
 ### Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Hapi" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
-  <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Android Studio" width="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
-  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django" width="21px" src="https://nathankjer.com/wp-content/uploads/2019/10/maxresdefault-e1570415335755.jpg" /></a>
+  <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Android Studio" width="21px" height="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django" width="21px"  src="https://nathankjer.com/wp-content/uploads/2019/10/maxresdefault-e1570415335755.jpg" /></a>
   <br>
   <br>
 ### Github Statistic
