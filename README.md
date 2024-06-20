@@ -8,7 +8,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([htt
 ### Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Hapi" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
   <a href="https://developer.android.com/studio"><img align="left" alt="Next" title="Android Studio" width="21px" src="https://iconape.com/wp-content/files/fu/369254/svg/369254.svg" /></a>
-  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django" width="21px" src="https://image.pngaaa.com/344/1947344-middle.png" /></a>
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django" width="30px" src="https://image.pngaaa.com/344/1947344-middle.png" /></a>
   <br>
   <br>
 ### Github Statistic
